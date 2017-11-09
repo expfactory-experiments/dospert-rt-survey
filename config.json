@@ -4,6 +4,7 @@
     "exp_id": "dospert-rt-survey",
     "url": "https://github.com/expfactory-experiments/dospert-rt-survey",
     "instructions": "Please complete the survey questions.",
+    "description": "This is the dospert reaction timse task",
     "cognitive_atlas_task_id": "trm_5696abecf2569",
     "contributors": [
                      "Zeynep Enkavi",
