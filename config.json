@@ -1,0 +1,18 @@
+{
+    "name": "Dospert_rt: Domain specific risk taking Survey",
+    "template":"survey",
+    "exp_id": "dospert-rt-survey",
+    "url": "https://github.com/expfactory-experiments/dospert-rt-survey",
+    "instructions": "Please complete the survey questions.",
+    "cognitive_atlas_task_id": "trm_5696abecf2569",
+    "contributors": [
+                     "Zeynep Enkavi",
+                     "Ian Eisenberg",
+                     "Patrick Bissett",
+                     "Vanessa Sochat",
+                     "Russell Poldrack"
+                     ], 
+    "time": 3,
+    "reference": ["https://sites.google.com/a/decisionsciences.columbia.edu/dospert"]
+
+}
